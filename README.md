@@ -12,7 +12,7 @@ Calculated using the approach detailed in Carter et al. (submitted).
 
 Summary: A transport matrix (OCIM) is used to infer where interior ocean seawater last left surface mixed layers.  Then (Default) regressions (or interpolations) are used to infer the initial properties of these contributions. 
 
-v0 is the version at submission... this will be updated to v1 upon initial online publication.
+v0 is the version at submission... this will be updated to v1 if/when initially published online.
 
 "Default" estimates are obtained using the regression approach detailed in this manuscript.  "Interpolated" estimates are obtained using the interpolated properties at the base of the mixed layers.
 
